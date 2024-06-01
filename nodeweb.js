@@ -4,7 +4,7 @@ const { username, password, authDatabase, databaseName } = require('./auth_examp
 // Express setup
 var express = require('express');
 var app = express();
-const port = 9636;
+const port = 9461;
 
 // Connection URL to MongoDB
 const { MongoClient } = require('mongodb');
