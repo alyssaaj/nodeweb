@@ -1,4 +1,4 @@
-export const username = 'YourUserName';
-export const password = 'YourRealPassword';
-export const authDatabase = 'YourAuthenticationDatabase';
-export const databaseName = 'YourDatabaseName';
+export const username = 'amj426';
+export const password = 'aiZ1eeYenei';
+export const authDatabase = 'amj426_INFO670_202335';
+export const databaseName = 'amj426_INFO670_202335';
